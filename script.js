@@ -35,7 +35,7 @@ scrollTop?.addEventListener('click', () => {
 
 // WhatsApp Function
 function openWhatsApp() {
-    const phoneNumber = '918800000000';
+    const phoneNumber = '919996957696';
     const message = 'Hi! I would like to know more about your digital marketing and branding services.';
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
@@ -87,7 +87,7 @@ ${message}
 
     // Also open WhatsApp with the message
     const whatsappMessage = `Hello! I'm ${name}. I'm interested in your services. Please contact me at ${email} or ${phone}.`;
-    const whatsappUrl = `https://wa.me/918800000000?text=${encodeURIComponent(whatsappMessage)}`;
+    const whatsappUrl = `https://wa.me/919996957696?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
 
     // Reset form
